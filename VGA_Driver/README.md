@@ -8,7 +8,7 @@
 ---
 ![alt text](https://www.mafgom.com/wp-content/uploads/2011/08/WAMO00021.jpg "Uygulama Çıktısı")
 
-### Kaynaklar
+### Kaynaklar:
 
 http://tr.wikipedia.org/wiki/Video_Graphics_Array
 
