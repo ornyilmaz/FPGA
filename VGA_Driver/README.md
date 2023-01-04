@@ -10,7 +10,6 @@
 
 ### Kaynaklar
 
-
 http://tr.wikipedia.org/wiki/Video_Graphics_Array
 http://tinyvga.com/vga-timing/800×600@56Hz
 http://www-mtl.mit.edu/Courses/6.111/labkit/vga.shtml
