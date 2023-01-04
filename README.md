@@ -1,2 +1,2 @@
 # FPGA
-FPGA Çalışmalarını içerir.
+FPGA çalışmalarını içerir.
